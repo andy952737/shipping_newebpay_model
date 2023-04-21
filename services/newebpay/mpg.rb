@@ -1,5 +1,3 @@
-# https://5xruby.tw/posts/rails-newebpay
-# > Newebpay::Mpg.new.test
 module Newebpay
   class Mpg 
     attr_accessor :info 
